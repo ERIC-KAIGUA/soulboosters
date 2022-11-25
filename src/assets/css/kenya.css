@@ -1,0 +1,8 @@
+svg path{
+    fill: #FFFFFF;
+    stroke:#000000;
+}
+svg path:hover{
+    cursor: pointer;
+    fill: #3EADCF
+}
