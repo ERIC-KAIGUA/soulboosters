@@ -37,7 +37,7 @@ const Themes = () => {
     </li>
     <li className="honeycomb-cell">
         <img className="honeycomb-cell_img" src={oceans2}/>
-        <div className="honeycomb-cell_title">Rising Oceans</div>
+        <div className="honeycomb-cell_title">Increased Insecurities</div>
     </li>
     <li className="honeycomb-cell">
         <img className="honeycomb-cell_img" src={risks}/>
